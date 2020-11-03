@@ -1,0 +1,2 @@
+﻿glut32.lib(ds4.o) : warning LNK4078: multiple '.idata' sections found with different attributes (40000000)
+  RayCaster.vcxproj -> C:\Users\Cormac\source\repos\RayCaster\Debug\RayCaster.exe
