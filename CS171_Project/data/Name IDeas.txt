@@ -1,0 +1,9 @@
+Penguins don't fly
+
+Pedestrian Penguins
+
+Penguin Pong
+
+Penguin fishing
+
+Add reload, pause menu, penalty for birds flying off screen
